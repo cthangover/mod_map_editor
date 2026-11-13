@@ -1,7 +1,7 @@
 {
   "id": "map_editor",
   "name": "World Map Editor",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": "ct",
   "description": "Edit world map zones, polygons, labels and markers.",
   "category": "tools, editor",
@@ -9,8 +9,8 @@
     "src/**/*.cs"
   ],
   "depends": [
-    "tools_base>=1",
-    "map_base>=1",
-    "ui_base>=1"
+    "tools_base>=0.1.0",
+    "map_base>=0.1.0",
+    "ui_base>=0.1.0"
   ]
 }
